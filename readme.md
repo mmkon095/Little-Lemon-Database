@@ -1,4 +1,4 @@
-# Little Lemon Capstone Project
+# Little Lemon Restaurant - Capstone Project
 
 The purpose of this project is to help Little Lemon manage their database by adding sales reports and creating a table booking system using mySQL.
 Little Lemon needs to build a robust relational database system in MySQL in which they can store large amounts of data. 
